@@ -45,3 +45,5 @@ Consider the following when communicating with the staff.
 - Personal information might be processed so privacy and security are important.
 - Do not provide examples that encourage the user to hardcode secrets, passwords, or other sensitive information.
 - If credentials or other sensitive information is required, add features to the program to prompt for it, store it locally, and logout. For example a login dialog box.
+
+Test
